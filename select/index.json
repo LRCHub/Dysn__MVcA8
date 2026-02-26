@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "pupa",
+  "base_artist": "さよならポエジー",
+  "createdAt": "2026-02-26T03:45:16.317718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rub-A-Dub Anthem (feat. Pupa Jim)",
+      "artist": "High Tone",
+      "has_synced": true,
+      "path": "select/01_Rub-A-Dub_Anthem_(feat._Pupa_Jim)_High_Tone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grand Pupa",
+      "artist": "Homeboy Sandman",
+      "has_synced": false,
+      "path": "select/02_Grand_Pupa_Homeboy_Sandman.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything (feat. Roots Radics & Pupa Avril)",
+      "artist": "Alborosie, Pupa Avril & Roots Radics",
+      "has_synced": true,
+      "path": "select/03_Everything_(feat._Roots_Radics_&_Pupa_Avril)_Alborosie,_Pupa_Avril_&_Roots_Radics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything (feat. Roots Radics & Pupa Avril)",
+      "artist": "Alborosie",
+      "has_synced": true,
+      "path": "select/04_Everything_(feat._Roots_Radics_&_Pupa_Avril)_Alborosie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PUPA",
+      "artist": "Nothing’s Carved in Stone",
+      "has_synced": true,
+      "path": "select/05_PUPA_Nothing’s_Carved_in_Stone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pupa (Kas Ta Pupa Supa)",
+      "artist": "Bardachiokas",
+      "has_synced": false,
+      "path": "select/06_Pupa_(Kas_Ta_Pupa_Supa)_Bardachiokas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pupa",
+      "artist": "さよならポエジー",
+      "has_synced": false,
+      "path": "select/pl_01_pupa_さよならポエジー.txt"
+    }
+  ]
+}
